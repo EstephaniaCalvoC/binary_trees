@@ -48,6 +48,12 @@
 * **15. Is full(./15-binary_tree_is_full.c):** C function that checks if a binary tree is full.
   * Returns `1` if a tree is full, `0` otherwise.
 
+* **16. Is perfect(./16-binary_tree_is_perfect.c):** C function that checks if a binary tree is perfect.
+  * Returns `1` if a tree is perfect, `0` otherwise.
+
+* **17. Sibling(./17-binary_tree_sibling.c):** C function that returns a pointer to the sibling of a given node in a binary tree.
+  * Returns `NULL` if no sibling is found.
+  
 ## Authors
 
 * **Estephania Calvo Carvajal** <[EstephaniaCalvoC](https://github.com/EstephaniaCalvoC)>
