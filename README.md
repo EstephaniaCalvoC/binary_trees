@@ -39,6 +39,15 @@
 
 * **11. Size(./11-binary_tree_size.c):** C function that returns the size of a binary tree.
 
+* **12. Leaves(./12-binary_tree_leaves.c):** C function that returns the number of leaves in a binary tree.
+
+* **13. Nodes(./13-binary_tree_nodes.c):** C function that returns the number of nodes in a binary tree with at least one child.
+
+* **14. Balance factor(./14-binary_tree_balance.c):** C function that returns the balance factor of a binary tree.
+
+* **15. Is full(./15-binary_tree_is_full.c):** C function that checks if a binary tree is full.
+  * Returns `1` if a tree is full, `0` otherwise.
+
 ## Authors
 
 * **Estephania Calvo Carvajal** <[EstephaniaCalvoC](https://github.com/EstephaniaCalvoC)>
